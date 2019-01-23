@@ -12,6 +12,7 @@ Plugin 'terryma/vim-multiple-cursors'
 Plugin 'tpope/vim-eunuch'
 Plugin 'tpope/vim-surround'
 Plugin 'scrooloose/nerdtree'
+Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'Xuyuanp/nerdtree-git-plugin'
 call vundle#end()
 filetype plugin indent on
